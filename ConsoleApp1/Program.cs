@@ -1,7 +1,7 @@
 //nmb=nombre
 //app=apellido paterno
 //apm=apellido materno
-//ed=edad
+//mined=edad
 //ocp=ocupación
 //cor=correo
 
